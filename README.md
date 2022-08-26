@@ -4,6 +4,9 @@
 
 Artisty is a mobile app that allows an artist to show off all of his artwork in a gallery.
 
+![Artisty Wallpaper](https://user-images.githubusercontent.com/32510139/186997167-6cdf12b9-c1c5-4b25-93e2-cb76e41b264c.jpg)
+
+
 ## Table of Contents
 
 - [Screenshots](#screenshots)
